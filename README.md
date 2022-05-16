@@ -4,7 +4,7 @@ Dialog boxes are used extensvely across many websites. You may use it to ask a u
 
 Luckily, there's a solution. The HTML ```<dialog>``` tag is used to easily create dialogs and lightboxes. With JavaScript, you can call simple methods to open and close the dialog.
 
-Dialogs are very versatile. You may style them, animate them, and they can be used for various different purposes. To view some examples of styled and animated dialog boxes, check out some of my files on this repository.
+Dialogs are very versatile. You may style them, animate them, and they can be used for various different purposes. To view a example of a styled and animated dialog box, check out my files on this repository.
 
 ### Setting up a Modal
 
@@ -44,7 +44,7 @@ You may also add eventListeners and conditional loops to initiate the opening an
 
 ### Conclusion
 
-With these code snippets, you will be able to create a simple dialog box to embed in your website. To view some examples of different modals, check out some of the files on this repository.
+With these code snippets, you will be able to create a simple dialog box to embed in your website. To view some examples of different modals, check out some of the following links or the files on this repository.
 
 ### References
 
