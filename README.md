@@ -8,9 +8,9 @@ Dialogs are very versatile. You may style them, animate them, and they can be us
 
 ### Setting up a Modal
 
-The basic code for a dialog is as follows.
+The basic HTML code for a dialog is as follows.
 
-```javascript
+```html
 
 <dialog>
   <p> Hello <p>
@@ -40,7 +40,7 @@ window.onload = function() {
 
 ```
 
-You may also add eventListeners and conditional loops to initiate the opening and closing of the dialog
+You may also add eventListeners and conditional loops within the JavaScript files to initiate the opening and closing of the dialog.
 
 ### Conclusion
 
