@@ -42,7 +42,7 @@ You may also add eventListeners and conditional loops to initiate the opening an
 
 ### Conclusion
 
-With these code snippets, you will be able to create a simple dialog box to embed in your website. To view some examples, check out some of the files on this repository.
+With these code snippets, you will be able to create a simple dialog box to embed in your website. To view some examples of styled modals, check out some of the files on this repository.
 
 ### References
 
