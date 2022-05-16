@@ -47,5 +47,5 @@ With these code snippets, you will be able to create a simple dialog box to embe
 ### References
 
 - [How to Create HTML Modal Dialogs with the Dialog Tag](https://usefulangle.com/post/110/html-dialog-element-to-create-modal-lightbox)
-- [HTML5 <dialog> Tag](https://www.geeksforgeeks.org/html5-dialog-tag/)
+- [HTML5 Dialog Tag](https://www.geeksforgeeks.org/html5-dialog-tag/)
 - [You can Finally make use of the HTML Dialog Element](https://towardsdev.com/you-can-finally-make-use-of-the-html-dialog-element-f4b7c591b1b6)
